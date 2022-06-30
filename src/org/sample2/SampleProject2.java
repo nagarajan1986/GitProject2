@@ -6,6 +6,7 @@ public class SampleProject2 {
 		
 		
 		System.out.println("This is sample project 2");
+		System.out.println("This is second line");
 
 	}
 
